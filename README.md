@@ -6,7 +6,7 @@
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QueryFranco)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Excel](https://img.shields.io/badge/Excel-Analisis_Datos-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)]()
 
 ---
 
@@ -31,7 +31,7 @@ Excel-Projects/
 
 ### [📊 Proyecto 1: Dashboard de Salarios](Proyecto_1-Salary_Dashboard/)
 
-Dashboard interactivo que permite explorar salarios de empleos en ciencia de datos. Incluye gráficos de barras, mapas geográficos, formularios con validación de datos y fórmulas数组 avanzadas.
+Dashboard interactivo que permite explorar salarios de empleos en ciencia de datos. Incluye gráficos de barras, mapas geográficos, formularios con validación de datos y fórmulas avanzadas.
 
 | Habilidades Excel | Descripción |
 |---|---|
@@ -99,9 +99,9 @@ Los datasets utilizados contienen información real del mercado laboral de cienc
 
 ---
 
-## 🎓 Atribución
+## 🎓 Créditos
 
-Estos proyectos fueron desarrollados como parte del curso **[Excel for Data Analytics](https://lukebarousse.com/excel)** de **Luke Barousse**.
+Proyectos desarrollados como parte del curso [Excel for Data Analytics](https://lukebarousse.com/excel) de [Luke Barousse](https://www.linkedin.com/in/luke-b).
 
 ---
 
