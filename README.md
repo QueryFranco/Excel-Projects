@@ -6,7 +6,6 @@
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QueryFranco)
-[![Excel](https://img.shields.io/badge/Excel-Analisis_Datos-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)]()
 
 ---
 
@@ -21,8 +20,7 @@ Repositorio que contiene proyectos de análisis de datos desarrollados completam
 ```
 Excel-Projects/
 ├── 📊 Proyecto_1-Salary_Dashboard/      → Dashboard interactivo de salarios
-├── 📊 Proyecto_2-Job_Market_Analysis/   → Análisis del mercado laboral
-└── 🖼️ 0_Resources/Images/               → Imágenes y gráficos de los proyectos
+└── 📊 Proyecto_2-Job_Market_Analysis/   → Análisis del mercado laboral
 ```
 
 ---
